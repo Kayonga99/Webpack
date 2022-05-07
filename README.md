@@ -1,62 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# WEBPACK 5 TEMPLATE
 
-> Description the project.
+> Everything you need to start using webpack is all setup and ready to use just run the following commands to get started:
 
+Get started by copying and pasting the following in your terminal: 
 
-## Built With
+- 1 
+```
+git@github.com:Kayonga99/Webpack.git
+```
+- 2
 
-- Major languages
-- Frameworks
-- Technologies used
+```
+cd webpack
+```
 
-## Live Demo (if available)
+- 3
+```
+npm install
+```
 
-[Live Demo Link](https://livedemo.com)
+- 4
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+ This will generate a dist folder you never edit what is in there.
+```
+npm run build
+```
 
 
+- 5
 
-## Authors
+```
+npm start
+```
+The browser will open and you should see this text : "Hello webpack!", if this is not the case please stay calm and simply open your browser and paste this.
+```
+http://localhost:3000
+```
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- 6
 
-👤 **Author2**
+ You can start editing the files in the "src" folder
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Happy coding! 🌈
 
-## 🤝 Contributing
+if you are interested in learning more about webpack click the link below
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+[click here!](https://webpack.js.org/guides/getting-started/)
 
 ## Show your support
 
