@@ -50,7 +50,7 @@ if you are interested in learning more about webpack click the link below
 
 [click here!](https://webpack.js.org/guides/getting-started/)
 
-- [click here!](https://webpack.js.org/guides/getting-started/)
+- [click here! to see live demo](https://endearing-palmier-2b7d05.netlify.app/)
 
 ## Show your support
 
