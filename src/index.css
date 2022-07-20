@@ -8,3 +8,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+h1 {
+    color: #fff;
+    font-size: 4em;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    padding-top: 1em;
+    font-weight: 800;
+    font-style: italic;
+}
