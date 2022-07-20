@@ -18,3 +18,13 @@ h1 {
     font-weight: 800;
     font-style: italic;
 }
+
+div {
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    padding-top: 0.3em;
+    font-weight: 800;
+    font-style: italic;
+}
