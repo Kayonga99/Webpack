@@ -50,6 +50,8 @@ if you are interested in learning more about webpack click the link below
 
 [click here!](https://webpack.js.org/guides/getting-started/)
 
+- [click here!](https://webpack.js.org/guides/getting-started/)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
